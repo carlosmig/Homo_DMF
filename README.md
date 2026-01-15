@@ -30,7 +30,7 @@ Scientific Data, 9, 486. https://doi.org/10.1038/s41597-022-01596-9
 Mindlin, I., Coronel-Oliveros, C., Sitt, J. D., Cofré, R., Luppi, A., Andrillon, T., & Herzog, R. (Biorxiv, 2026).  
 *The impact of homeostatic inhibitory plasticity in a generative biophysical model*. 
 
-**Original codes of the main paper**
+### Original codes of the main paper
 A C++/MEX - Python implementation of the model is available at https://github.com/Picardian14/fastHDMF-code.
 
 ---
