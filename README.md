@@ -1,4 +1,4 @@
-
+a
 # 🧠 Homeostatic Dynamic Mean Field Model (DMF_ISP)
 
 This repository contains Python code for simulating a **homeostatic dynamic mean field (DMF) model** with synaptic plasticity and generating synthetic BOLD signals. The model implements biologically inspired excitatory-inhibitory dynamics using a structural connectivity (SC) matrix derived from human brain data. It supports noise, homeostatic inhibitory plasticity, and simulation of functional connectivity (FC).
